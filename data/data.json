@@ -1,0 +1,41 @@
+{
+  "name": "Madhuri Singh",
+  "tagline": "PhD Student, Computer Science @ Georgia Institute of Technology",
+  "photo": "assets/madhuriimage_cropped.jpg",
+  "cv": "assets/Updated CV Madhuri Singh - 30 Aug 2026.pdf",
+  "about": "I am pursuing a PhD in Computer Science, advised by Dr. Mark Riedl at the Georgia Institute of Technology. My research aims to make AI systems Explainable to AI-experts and non-experts alike. I am particularly interested in Explainable Reinforcement Learning and Agentic Systems.",
+  "email": "msingh365@gatech.edu",
+  "publications": [
+    {
+      "title": "Creating Learning Scaffolds for Engineering Design Using Concept Catalyst",
+      "venue": "Proceedings of the 6th Annual Meeting of the International Society of the Learning Sciences (ISLS)",
+      "url": "https://doi.org/10.48550/arXiv.2605.20511"
+    },
+    {
+      "title": "Counterfactual Explanations for Agentic Workflows",
+      "venue": "Proceedings of the CHI 2026 Workshop on Human-Centered Explainable AI (HCXAI)",
+      "url": "https://doi.org/10.5281/zenodo.19700286"
+    },
+    {
+      "title": "Explainable Reinforcement Learning Agents Using World Models",
+      "venue": "Workshop on Explainable Artificial Intelligence (XAI) at IJCAI 2025",
+      "url": "https://doi.org/10.48550/arXiv.2505.08073"
+    },
+    {
+      "title": "Experiential Explanations for Reinforcement Learning",
+      "venue": "Neural Computing and Applications 37, 2255–22285",
+      "url": "https://doi.org/10.1007/s00521-024-10951-3"
+    },
+    {
+      "title": "Transforming CS Education with DevOps: Streamlined Assignment Validation and Delivery@ Scale",
+      "venue": "Proceedings of the Eleventh ACM Conference on Learning@ Scale, 259-264",
+      "url": "https://doi.org/10.1145/3657604.3664676"
+    }
+  ],
+  "projects": [],
+  "links": [
+    { "label": "LinkedIn", "url": "https://www.linkedin.com/in/madhuri-singh-778a8a213" },
+    { "label": "Google Scholar", "url": "https://scholar.google.com/citations?user=eNeMEbQAAAAJ&hl=en" },
+    { "label": "Email", "url": "mailto:msingh365@gatech.edu" }
+  ]
+}

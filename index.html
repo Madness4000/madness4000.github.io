@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Loading…</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="wrap">
+    <header id="header"></header>
+
+    <section>
+      <h2>About</h2>
+      <p id="about"></p>
+      <a id="cv-btn" class="cv-btn" target="_blank" rel="noopener" hidden>Download CV</a>
+    </section>
+
+    <section>
+      <h2>Publications</h2>
+      <ul class="list" id="publications"></ul>
+    </section>
+
+    <!-- <section>
+      <h2>Projects</h2>
+      <ul class="list" id="projects"></ul>
+    </section> -->
+
+    <section>
+      <h2>Links</h2>
+      <div class="links" id="links"></div>
+    </section>
+
+    <footer>&copy; <span id="year"></span></footer>
+  </div>
+
+  <script>document.getElementById("year").textContent = new Date().getFullYear();</script>
+  <script src="js/main.js"></script>
+</body>
+</html>
