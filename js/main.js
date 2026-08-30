@@ -14,6 +14,7 @@ function el(tag, cls, html) {
 
 function render(data) {
   document.title = data.name;
+  document.getElementById("footer-name").textContent = data.name;
 
   const header = document.getElementById("header");
   if (data.photo) header.appendChild(el("img", null)).src = data.photo;
